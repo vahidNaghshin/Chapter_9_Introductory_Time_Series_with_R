@@ -5,6 +5,9 @@ This is the solution to the exercises of chapter 9 of Introductory Time Series w
 ![GitHub Logo](/quad1.png)
 Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x.png)
 
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x_y_z.png)
 ![GitHub Logo](/quad1.png)
 Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/spec_x_y_z.png)
 
