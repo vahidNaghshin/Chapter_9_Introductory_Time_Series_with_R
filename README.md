@@ -8,21 +8,16 @@ Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time
 
 ![GitHub Logo](/quad1.png)
 Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x_y_z.png)
-![GitHub Logo](/quad1.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/spec_x_y_z.png)
-
 
 ![GitHub Logo](/quad1.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/ts_acf_spec.png)
-
-
-![GitHub Logo](/quad1.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/raw_smoothed_spec_x.png)
-
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/ts_acf_spec.png)
 
 ![GitHub Logo](/quad1.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/fft.png)
-
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x.png)
 
 ![GitHub Logo](/quad1.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/gamma.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x.png)
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_9_Introductory_Time_Series_with_R/blob/master/spec_x.png)
+
